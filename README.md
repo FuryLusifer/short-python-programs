@@ -1,5 +1,10 @@
 <h1 align="center">Short Python Programs 🐍</h1>
 <h3 align="center">Curated mini‑projects and scripts to spark creativity and sharpen skills</h3>
+[![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/FuryLusifer/short-python-programs)](https://github.com/FuryLusifer/short-python-programs/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/FuryLusifer/short-python-programs)](https://github.com/FuryLusifer/short-python-programs)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ---
 
