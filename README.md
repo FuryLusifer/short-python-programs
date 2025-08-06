@@ -1,68 +1,81 @@
-<h1 align="center">Short Python Programs 🐍</h1>
-<h3 align="center">Curated mini‑projects and scripts to spark creativity and sharpen skills</h3>
-[![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://python.org)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/FuryLusifer/short-python-programs)](https://github.com/FuryLusifer/short-python-programs/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/FuryLusifer/short-python-programs)](https://github.com/FuryLusifer/short-python-programs)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+# 📦 Short Python Programs
+
+<h3 align="center">A curated collection of mini Python projects and scripts</h3>
+
+<p align="center">
+  <a href="https://python.org"><img src="https://img.shields.io/badge/python-3.6+-blue.svg" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" /></a>
+  <a href="https://github.com/FuryLusifer/short-python-programs/commits/main"><img src="https://img.shields.io/github/last-commit/FuryLusifer/short-python-programs" /></a>
+  <a href="https://github.com/FuryLusifer/short-python-programs"><img src="https://img.shields.io/github/repo-size/FuryLusifer/short-python-programs" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" /></a>
+</p>
 
 ---
 
-## 🔍 Repository Overview
+## 🔍 Overview
 
-This collection features compact Python scripts and utilities designed for:
-- Beginners taking their first steps in programming  
-- Learners looking to explore practical Python use-cases  
-- Developers needing quick tools to solve everyday problems  
-
-Each file is fully functional, easy to run, and focused on teaching a key concept through hands‑on code.
+This repository includes simple and effective Python scripts that are useful for learners, educators, and developers. The aim is to demonstrate how Python can be used to solve real-world problems with short, readable code.
 
 ---
 
-## 📝 What's Inside
+## 🧠 What's Inside
 
-- **Practice Scripts** – mathematical tools, string manipulations, file operations  
-- **Automation Helpers** – small utilities to automate repetitive tasks  
-- **Educational Snippets** – examples of OOP, list comprehensions, generators  
-- **Bonus Projects** – mini-game exercises or fun command-line utilities  
+- 📐 **Basic Utilities**: Mathematical calculators, string operations, sorting methods, etc.
+- 🔁 **Automation Scripts**: Repetitive task automation using loops and conditions
+- 🎯 **Practice Projects**: Code samples designed to improve logic-building skills
+- 🧪 **Testing Demos**: Examples that show how to write and use test cases (Pytest)
+
+All scripts are self-contained and beginner-friendly. You can run them without any setup other than Python.
 
 ---
 
 ## 🚀 Getting Started
 
 Clone the repo:
+
 ```bash
 git clone https://github.com/FuryLusifer/short-python-programs.git
 cd short-python-programs
 ```
 
 Run a script:
+
 ```bash
 python script_name.py
 ```
 
-That’s it—no installation required!
+---
+
+## 📁 Example Scripts
+
+- `calculator.py`: Performs basic arithmetic
+- `is_palindrome.py`: Checks if a word or phrase is a palindrome
+- `file_reader.py`: Reads and prints file contents
+- `guess_number.py`: A simple number guessing game
+
+> More scripts are added regularly. Explore them in the main directory.
 
 ---
 
-## ⭐ Featured Scripts
+## 🧪 Testing Scripts
 
-<p align="center">
-  <a href="https://github.com/FuryLusifer/short-python-programs/blob/main/example_math.py">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuryLusifer&repo=short-python-programs&theme=vision-friendly-dark" alt="Pinned Repo Card" />
-  </a>
-</p>
+To run test scripts using Pytest:
 
-- `example_math.py`: Demonstrates numeric operations and basic user inputs  
-- `string_utils.py`: Handles string tricks like Palindrome, Pangram, Anagram detection  
+```bash
+pip install pytest
+pytest
+```
+
+Tests (if available) will be located alongside the scripts they validate.
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! Feel free to fork the repo and submit improvements, bug fixes, or even brand-new scripts.
 
 ---
 
-## 🧠 Tech & Pattern Highlights
+## 📄 License
 
-- 🐍 Pure Python 3  
-- ✅ Idiomatic usage: list comprehensions, context managers, OOP fundamentals  
-- 🔧 Lightweight, no external dependencies (except built-in modules)  
-- 🎓 Well suited for educational use, exercises, or reference
-
----
+This repository is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
